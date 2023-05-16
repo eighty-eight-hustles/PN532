@@ -1,4 +1,8 @@
-## NFC library 
+NFC library 
+===========
+This fork adapts this Arduino library for use with Espressif ESP32 and friends,
+and the ESP-IDF build system. All ESP-IDF changes © 2023 Max Stahl and
+Eighty-Eight Hustles LLC.
 
 This is an library for PN532 to use NFC technology.
 It is for [NFC Shield](http://goo.gl/Cac2OH) and [Grove - NFC](http://goo.gl/L3Uw5G).
